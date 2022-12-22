@@ -4,10 +4,10 @@ body {
     font-weight: 700;
     font-style: normal;
     color: white;
-    margin-bottom: 500px;
 }
 
 .content {
     max-width: 500px;
+    padding-top: 500px;
     margin: auto;
   }
