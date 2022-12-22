@@ -5,3 +5,8 @@ body {
     font-style: normal;
     color: white;
 }
+
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
