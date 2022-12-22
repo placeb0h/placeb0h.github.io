@@ -7,6 +7,10 @@ body {
 }
 
 .content {
-    max-width: 500px;
-    margin: auto 50%;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
   }
