@@ -1,21 +1,5 @@
-body {
-    background-color: #212121;
-    font-family: neue-haas-unica, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    color: white;
+.placelogo {
+  background-image: url(../img/logo.png);
+  height: 200px;
+  width: 233px;
 }
-
-section {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-  }
-
-  #logo {
-    background-image: url('../img/logo.png');
-    width: 233px;
-    height: 200px;
-  }
