@@ -13,3 +13,8 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%)
   }
+
+  #logo {
+    background-image: url('assets/img/logo.png');
+    width: 500px;
+  }
