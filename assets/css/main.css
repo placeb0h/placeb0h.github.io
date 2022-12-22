@@ -8,6 +8,5 @@ body {
 
 .content {
     max-width: 500px;
-    padding-top: 500px;
-    margin: auto;
+    margin: auto 50%;
   }
